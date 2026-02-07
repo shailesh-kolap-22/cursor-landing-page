@@ -1,4 +1,4 @@
-/* CSS Reset - Start fresh */
+/* CSS Reset */
 * {
   margin: 0;
   padding: 0;
@@ -14,14 +14,14 @@ body {
   font-size: 16px;
 }
 
-/* Container - Centers content */
+/* Container */
 .container {
   max-width: 1280px;
   margin: 0 auto;
   padding: 0 60px;
 }
 
-/* Typography - Headings and text */
+/* Headings and text */
 h1 {
   font-size: 56px;
   font-weight: 600;
@@ -49,7 +49,7 @@ p {
   margin-bottom: 16px;
 }
 
-/* Buttons - Simple styling */
+/* Buttons */
 .btn {
   padding: 12px 24px;
   border-radius: 8px;
@@ -97,7 +97,6 @@ p {
   color: #CCCCCC;
 }
 
-/* Utility Classes */
 .text-center {
   text-align: center;
 }
@@ -144,7 +143,7 @@ p {
   gap: 15px;
 }
 
-/* Hero Section - Single column layout */
+/* Hero Section */
 .hero {
   background-color: #0a0a08;
   padding: 100px 0 80px 0;
